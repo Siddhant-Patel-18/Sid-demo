@@ -1,3 +1,3 @@
 # Sid-demo
-this is my first repository 
-author- siddhant patel
+This is my first repository 
+Author- Siddhant Patel
